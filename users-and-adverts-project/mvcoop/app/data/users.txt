@@ -1,4 +1,0 @@
-1,Sheldon
-2,Penny
-3,Leonard
-4,Stewart
