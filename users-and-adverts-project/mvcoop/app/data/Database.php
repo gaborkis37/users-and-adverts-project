@@ -4,7 +4,7 @@ class Database {
 	private static $_instance; //The single instance
 	private $_host = 'localhost';
 	private $_username = 'root';
-	private $_password = 'Trial156295';
+	private $_password = ' ';
 	private $_database = 'useradvert';
 
 	public static function getInstance() {
